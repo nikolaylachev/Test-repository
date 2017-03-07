@@ -2,7 +2,7 @@
 First repository
 namespace Niki
 {
- class Niki
+ class Program
  {
   static void Main()
   {
